@@ -1,1 +1,1 @@
-# Hand-Postures-Classifier
+# Hand-Gestures-Classifier
